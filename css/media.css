@@ -1,0 +1,370 @@
+@media only screen and (max-width: 1200px) {
+    .sh-nav li a{
+        padding: 50px 10px 50px 10px;
+    }
+    .sh-news-left-side{
+        display: block;
+        text-align: center;
+    }
+    .sh-news-right-side{
+        float: none;
+        display: flex;
+        text-align: center;
+    }
+
+    .sh-news-right-side form{
+        margin: 0 auto;
+    }
+    .sh-news-letter h3{
+        padding-left: 15px;
+    }
+    .leftsale span:first-child {
+        padding: 10px 30px;
+    }
+    .leftsale span:nth-child(3) {
+        padding: 0 30px;
+    }
+    .sectionsales {
+        height: 140px;
+    }
+    .sectionsales span {
+        padding: 0 10px;
+        margin: 25px 0;
+    }
+    .sectionsales img{
+        width: 75px;
+        height: 75px;
+    }
+    .sectionsales h4 {
+        font-size: 16px;
+    }
+    ul.tabs {
+        padding: 0 20px;
+    }
+    .tab-content {
+        padding: 0 20px;
+    }
+    .headtext, .choos-quantity {
+        padding-right: 30px;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .leftsale span:first-child {
+        padding: 10px 15px;
+    }
+    .leftsale span:first-child img {
+        height: 60px;
+        width: 60px;
+    }
+    .leftsale span:nth-child(2) h4 {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+    .leftsale span:nth-child(2) p {
+        font-size: 10px;
+    }
+    .leftsale span:nth-child(3) {
+        padding: 0 15px;
+    }
+    .leftsale span:nth-child(3) h4 {
+        display: inline-block;
+        font-size: 18px;
+    }
+    .leftsale span:nth-child(3) h4 span {
+        font-size: 14px;
+    }
+    .leftsale span:nth-child(3) a {
+        padding-right: 5px;
+        font-size: 14px;
+    }
+    .rightsale {
+        padding: 21px 0;
+    }
+    .rightsale h5 {
+        margin-bottom: 10px;
+    }
+    .sectionsales {
+        height: 100px;
+    }
+    .sectionsales span {
+        padding: 0 5px;
+        margin: 15px 0;
+    }
+    .sectionsales img{
+        width: 60px;
+        height: 60px;
+    }
+    .sectionsales h4 {
+        font-size: 14px;
+    }
+    .goodssaleshover .namesgood {
+        position: relative;
+        top: 0;
+    }
+    .goodssaleshover .jacket {
+        position: relative;
+        top: 5px;
+    }
+    .sh-footer-ul {
+        display: none;
+    }
+    ul.tabs {
+        padding: 0;
+    }
+    .tab-content {
+        padding: 0;
+    }
+    ul.tabs li {
+        width: 75px;
+    }
+    .currentgood .headtext {
+        padding-right: 0;
+    }
+    .choos-quantity, .ordernow {
+        padding-right: 0;
+    }
+    .choos-quantity, .ordernow {
+        float: none;
+    }
+    .choos-quantity, .choos-sizes, .ordernow, .price  {
+        display: block;
+
+    }
+    .ordernow {
+        position: relative;
+        left: -12px;
+    }
+    .currentgood .hr {
+        margin: 40px 0;
+    }
+    .currentgood .hr2 {
+        margin: 30px 0 40px 0;
+    }
+
+
+
+}
+@media only screen and (max-width: 768px) {
+    .padding {
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .headtext h1 {
+        font-size: 40px;
+    }
+    .headtext h4 {
+        font-size: 14px;
+    }
+    .headtext p {
+        font-size: 12px;
+        margin-bottom: 40px;
+    }
+    .headtext span {
+        font-size: 14px;
+    }
+    .icoleft .whiteico {
+        width: 8px;
+        height: 16px;
+        margin: 8px 0;
+    }
+    .icoleft .orangeico {
+        width: 8px;
+        height: 32px;
+    }
+    .sh-nav{
+        display: none;
+    }
+    .sh-social-media span{
+        margin-left: 15px;
+        font-size: 10px;
+    }
+    .sh-contact-item{
+        padding-right: 10px;
+        font-size: 10px;
+    }
+    .sh-nav li a{
+        padding: 30px 10px 30px 10px;
+    }
+    .sh-nav-icons i, .sh-nav-icons span{
+         padding: 30px 0 30px 25px;
+     }
+    .sh-logo{
+        padding: 23px 0;
+    }
+    .sh-contacts{
+        height: 40px;
+    }
+    .sh-contact-item, .sh-social-media span{
+        line-height: 40px;
+    }
+    .shtorka{
+        display: block;
+    }
+    .leftsale {
+        text-align: center;
+    }
+    .sectionsales {
+        text-align: center;
+    }
+    .sh-news-right-side form input{
+        width: 180px;
+    }
+    .currentgood .headtext {
+        padding-top: 25px;
+        text-align: center;
+    }
+    .choos-quantity, .choos-sizes, .ordernow, .price{
+        display: inline-block;
+    }
+    .choos-quantity, .ordernow {
+        float: right;
+    }
+    .choos-quantity {
+        top: 4px;
+    }
+    .currentgood .headtext h1 {
+        font-size: 52px;
+    }
+    .currentgood .headtext h4 {
+        font-size: 18px;
+    }
+    .currentgood .headtext p {
+        font-size: 16px;
+    }
+    .modal-content {
+        max-width: 600px;
+        margin: 0 auto;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .mobile-menu{
+        display: none!important;
+    }
+}
+@media only screen and (max-width: 650px) {
+    .modal-content {
+        max-width: 500px;
+        margin: 0 auto;
+    }
+    .main-card .fieldset-number input {
+        width: 100px;
+    }
+}
+@media only screen and (max-width: 568px) {
+    .currentgood .headtext h1 {
+        font-size: 40px;
+    }
+    .currentgood .headtext h4 {
+        font-size: 16px;
+    }
+    .currentgood .headtext p {
+        font-size: 12px;
+    }
+    .choos-quantity, .choos-sizes, .ordernow, .price{
+        display: block;
+        text-align: left;
+    }
+    .choos-quantity, .ordernow {
+        float: none;
+    }
+    .head-card {
+        height: 80px;
+    }
+    .head-card h3 {
+        font-size: 18px;
+    }
+    .card-payment .iconmoon {
+        font-size: 30px;
+    }
+    .modal-content {
+        max-width: 420px;
+        margin: 0 auto;
+    }
+    .main-card .fieldset-number input {
+        width: 80px;
+    }
+    .main-card form input, .main-card form select {
+        width: 80px;
+        font-size: 18px
+    }
+    .main-card form select {
+        height: 29px;
+}
+@media only screen and (max-width: 480px) {
+    .leftsale span {
+        display: block;
+    }
+
+    .leftsale span:nth-child(3) h4 span {
+        display: inline-block;
+    }
+
+    .sh-news-letter h3, .sh-news-letter p {
+        padding: 10px;
+    }
+
+    .sh-news-letter input {
+        margin-bottom: 10px;
+    }
+
+    .head-card {
+        height: 60px;
+    }
+
+    .head-card h3 {
+        font-size: 14px;
+    }
+
+    .card-payment .iconmoon {
+        font-size: 20px;
+    }
+
+    .modal-content {
+        max-width: 350px;
+        margin: 0 auto;
+    }
+
+    .main-card .fieldset-number input {
+        width: 62px;
+
+    }
+    .fieldset-holder {
+        width: 100%;
+    }
+    .fieldset-number {
+        width: 100%;
+    }
+    .main-card fieldset {
+        display: inline-block}
+}
+
+    .main-card form input, .main-card form select {
+        font-size: 14px;
+        width: 45px;
+    }
+
+    .main-card form select {
+        height: 24px;
+
+    }
+}
+
+@media only screen and (max-width: 390px) {
+    .modal-content {
+        max-width: 280px;
+        margin: 0 auto;
+    }
+    .main-card .fieldset-number input {
+        width: 45px;
+
+    }
+    .modal-content button {
+        padding: 10px 13px;
+        font-size: 14px;
+    }
+    .modal-title{
+        font-size: 14px;
+    }
+}
